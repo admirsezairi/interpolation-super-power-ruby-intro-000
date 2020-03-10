@@ -8,5 +8,5 @@ G = ["green"]
 B = ["blue"]
 I = ["indigo"]
 V = ["violet"]
-
+puts "You like the color #{colors[0]}"
 end
